@@ -1,0 +1,15 @@
+E:\WebApis\UserModelValidation\UserModelValidation\bin\Debug\net6.0\UserModelValidation.exe
+E:\WebApis\UserModelValidation\UserModelValidation\bin\Debug\net6.0\UserModelValidation.deps.json
+E:\WebApis\UserModelValidation\UserModelValidation\bin\Debug\net6.0\UserModelValidation.runtimeconfig.json
+E:\WebApis\UserModelValidation\UserModelValidation\bin\Debug\net6.0\UserModelValidation.dll
+E:\WebApis\UserModelValidation\UserModelValidation\bin\Debug\net6.0\UserModelValidation.pdb
+E:\WebApis\UserModelValidation\UserModelValidation\obj\Debug\net6.0\UserModelValidation.csproj.AssemblyReference.cache
+E:\WebApis\UserModelValidation\UserModelValidation\obj\Debug\net6.0\UserModelValidation.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebApis\UserModelValidation\UserModelValidation\obj\Debug\net6.0\UserModelValidation.AssemblyInfoInputs.cache
+E:\WebApis\UserModelValidation\UserModelValidation\obj\Debug\net6.0\UserModelValidation.AssemblyInfo.cs
+E:\WebApis\UserModelValidation\UserModelValidation\obj\Debug\net6.0\UserModelValidation.csproj.CoreCompileInputs.cache
+E:\WebApis\UserModelValidation\UserModelValidation\obj\Debug\net6.0\UserModelValidation.dll
+E:\WebApis\UserModelValidation\UserModelValidation\obj\Debug\net6.0\refint\UserModelValidation.dll
+E:\WebApis\UserModelValidation\UserModelValidation\obj\Debug\net6.0\UserModelValidation.pdb
+E:\WebApis\UserModelValidation\UserModelValidation\obj\Debug\net6.0\UserModelValidation.genruntimeconfig.cache
+E:\WebApis\UserModelValidation\UserModelValidation\obj\Debug\net6.0\ref\UserModelValidation.dll
